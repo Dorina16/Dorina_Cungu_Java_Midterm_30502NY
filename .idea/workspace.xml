@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec520dcb-6f48-4f45-8fad-efbd8ddad220" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DuplicateWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Permutation.java" afterDir="false" />
     </list>
