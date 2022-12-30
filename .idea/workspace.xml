@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/databases/ConnectToMongoDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/databases/UnitTestConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/databases/UnitTestConnectDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/definition/data-structure-questions" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/definition/data-structure-questions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DetermineLargestWord.java" afterDir="false" />
@@ -30,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
