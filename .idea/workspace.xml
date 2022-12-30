@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ec520dcb-6f48-4f45-8fad-efbd8ddad220" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dorina_Cungu_Java_Midterm_30502NY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dorina_Cungu_Java_Midterm_30502NY.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/databases/ConnectToMongoDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/databases/UnitTestConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/databases/UnitTestConnectDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DetermineLargestWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/DuplicateWord.java" afterDir="false" />
